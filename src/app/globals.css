@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: #ffffff;
+    --foreground: #4d4f51;
+    --strong: #191a1a;
+    --highlighted: #3b3c3e;
+    --primary: #14b8a6;
+    --muted-50: #aeb1b2;
+    --muted-100: #858a8b;
+    --card: #f5f6f6;
+    --card-foreground: #4d4f51;
+    --border-50: #e6e7e7;
+    --border-100: #cfd1d2;
+  }
+
+  .dark {
+    --background: #141415;
+    --foreground: #aeb1b2;
+    --strong: #ffffff;
+    --highlighted: #e6e7e7;
+    --primary: #14b8a6;
+    --muted-50: #6a6e70;
+    --muted-100: #858a8b;
+    --card: #1e1f1f;
+    --card-foreground: #e6e7e7;
+    --border-50: #3b3c3e;
+    --border-100: #434547;
+  }
+}
+
+@layer base {
+  ::-moz-selection {
+    @apply bg-teal-400/10 text-teal-500;
+  }
+
+  ::selection {
+    @apply bg-teal-400/10 text-teal-500;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
