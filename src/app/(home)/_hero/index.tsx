@@ -16,7 +16,7 @@ export function Hero() {
           as="h1"
           className="text-4xl font-bold tracking-tight text-strong sm:pt-12 sm:text-6xl"
         >
-          CameloDev
+          Camelo Dev
         </Animate>
         <div className="space-y-3 pt-6 max-sm:leading-snug sm:pt-8 sm:text-lg">
           <Animate variant="fadeLeft" duration={0.55} delay={0.05} as="p">
@@ -29,7 +29,7 @@ export function Hero() {
           </Animate>
           <Animate variant="fadeLeft" duration={0.6} delay={0.05} as="p">
             Agregando mais de 2 anos de experiência em API's no desenvolvimento
-            de sistemas legados e etc.
+            de sistemas legados.
           </Animate>
         </div>
 

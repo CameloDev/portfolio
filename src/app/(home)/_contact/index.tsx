@@ -19,7 +19,7 @@ export function Contact() {
         Vamos nos conectar! Adoraria conversar e analisar novas oportunidades.
         Entre em contato pelo{" "}
         <TextLink href="mailto:prozinffzin03051@gmail.com">
-          prozinffzin03051@gmail.com
+          Meu Email
         </TextLink>{" "}
         ou através das minhas redes.
       </Animate>
