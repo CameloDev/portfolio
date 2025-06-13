@@ -8,7 +8,7 @@ export function Social() {
   return (
     <div className="flex items-center gap-4 pt-8">
       <Button
-        href="mailto:prozinffzin03051@gmail.com"
+        href="mailto:victordepauladev@gmail.com"
         className="size-9 p-0"
         asChild
       >
