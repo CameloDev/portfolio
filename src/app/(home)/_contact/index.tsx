@@ -18,7 +18,7 @@ export function Contact() {
       <Animate delay={0.15} as="p">
         Vamos nos conectar! Adoraria conversar e analisar novas oportunidades.
         Entre em contato pelo{" "}
-        <TextLink href="mailto:prozinffzin03051@gmail.com">
+        <TextLink href="mailto:victordepauladev@gmail.com">
           Meu Email
         </TextLink>{" "}
         ou através das minhas redes.
