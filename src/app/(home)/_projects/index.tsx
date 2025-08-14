@@ -14,7 +14,7 @@ export async function Projects() {
       <Title asChild className="mx-auto mb-10 w-10/12 max-w-2xl md:mb-12">
         <Animate as="h2">
           <LayoutGrid className="size-6 min-w-6 text-border-50" />
-          Projetos que desenvolvi
+          Projetos
         </Animate>
       </Title>
 
