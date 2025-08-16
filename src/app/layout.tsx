@@ -10,8 +10,8 @@ import { env } from "@/env";
 
 export const metadata: Metadata = {
   title: {
-    template: "%s | Camelo Dev",
-    default: "Camelo Dev | Desenvolvedor Back-end",
+    template: "%s | Victor de Paula",
+    default: "Victor de Paula | Desenvolvedor Back-end",
   },
   description:
     "Desenvolvedor Back-end com habilidades sólidas em Java, C++, Golang e C#.",

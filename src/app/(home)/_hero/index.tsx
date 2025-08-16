@@ -20,7 +20,7 @@ export function Hero() {
         </Animate>
         <div className="space-y-3 pt-6 max-sm:leading-snug sm:pt-8 sm:text-lg">
           <Animate variant="fadeLeft" duration={0.55} delay={0.05} as="p">
-            <span className="text-strong">Desenvolvedor Camelo Dev</span>,
+            <span className="text-strong">Desenvolvedor Victor de Paula</span>,
             movido a café e curiosidade, com habilidades sólidas em{" "}
             <span className="text-highlighted">Java</span>,{" "}
             <span className="text-highlighted">C++</span>,{" "}
