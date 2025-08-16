@@ -16,7 +16,7 @@ export function Hero() {
           as="h1"
           className="text-4xl font-bold tracking-tight text-strong sm:pt-12 sm:text-6xl"
         >
-          Camelo Dev
+          Victor de Paula
         </Animate>
         <div className="space-y-3 pt-6 max-sm:leading-snug sm:pt-8 sm:text-lg">
           <Animate variant="fadeLeft" duration={0.55} delay={0.05} as="p">
